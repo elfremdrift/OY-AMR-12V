@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/KiCad-libraries/SamacSys_Parts.lib")(options "")(descr ""))
   (lib (name "Miscellaneous")(type "KiCad")(uri "${KIPRJMOD}/KiCad-libraries/Miscellaneous.kicad_sym")(options "")(descr ""))
+  (lib (name "LocalNets")(type "KiCad")(uri "${KIPRJMOD}/LocalNets.kicad_sym")(options "")(descr ""))
 )
