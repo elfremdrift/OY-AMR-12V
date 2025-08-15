@@ -5300,7 +5300,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Horizontal_TabDown"
 			(at 240.03 62.23 0)
 			(effects
 				(font
@@ -7307,10 +7307,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e240d095-c3cc-48e9-b693-616a575d149d")
 		(property "Reference" "D8"
-			(at 236.22 67.2464 90)
+			(at 222.504 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7319,7 +7318,7 @@
 			)
 		)
 		(property "Value" "BYV32/200"
-			(at 236.22 69.7864 90)
+			(at 215.646 68.834 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7327,7 +7326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
 			(at 231.14 69.85 0)
 			(effects
 				(font
