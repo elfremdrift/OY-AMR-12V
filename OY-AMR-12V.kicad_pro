@@ -197,7 +197,10 @@
         2.5,
         3.0,
         4.0,
+        4.5,
         5.0,
+        5.5,
+        6.0,
         7.5,
         10.0
       ],
@@ -466,6 +469,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
