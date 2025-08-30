@@ -14363,6 +14363,18 @@
 		(layer "Edge.Cuts")
 		(uuid "204281c7-d33c-4485-b0a5-7ac3886f8a5d")
 	)
+	(gr_text "12V control board\nDruine Turbulent\n(c) FEF 2025"
+		(at 113 108 90)
+		(layer "F.SilkS")
+		(uuid "0128bb09-f7f2-4137-92ff-cb1c00c2636b")
+		(effects
+			(font
+				(size 1.25 1.25)
+				(thickness 0.2)
+			)
+			(justify bottom)
+		)
+	)
 	(segment
 		(start 161.72 58)
 		(end 168.6 58)
