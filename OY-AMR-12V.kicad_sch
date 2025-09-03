@@ -3926,7 +3926,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "    1: COIL_RETURN\n    2: COIL_DRIVER\n    3: MAIN_CONTACTOR_A\n    4: MAIN_CONTACTOR_B\n    5: KS_IN\n    6: GND\n  7,8: KS_ON (7)\n 9,10: +12V_AUX (8)\n11,12: +12V_BATT (9)\n13,14: +12V_DCDC (10)"
+	(text "    1: KS_IN\n    2: GND\n    3: MAIN_CONTACTOR_A\n    4: MAIN_CONTACTOR_B\n    5: COIL_RETURN\n    6: COIL_DRIVER\n  7,8: KS_ON (7)\n 9,10: +12V_AUX (8)\n11,12: +12V_BATT (9)\n13,14: +12V_DCDC (10)"
 		(exclude_from_sim no)
 		(at 196.342 50.546 0)
 		(effects
